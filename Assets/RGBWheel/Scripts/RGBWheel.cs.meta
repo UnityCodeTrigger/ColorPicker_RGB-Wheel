@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9b3ebac50d12446478c65fd426675fb4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ColorPickerSprite_Optional: {instanceID: 0}
+  - ColorPickedSprite: {instanceID: 0}
+  - texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
